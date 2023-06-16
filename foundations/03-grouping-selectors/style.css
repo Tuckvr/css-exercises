@@ -5,7 +5,8 @@
 .two {
     background-color: yellow;
 }
-.together {
+.one,
+.two {
     font-size: 28px;
-    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-family:Helvetica, 'Times New Roman', sans-serif ;
 }
